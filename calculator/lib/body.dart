@@ -62,7 +62,7 @@ class _BodyMainState extends State<BodyMain> {
                 ),
               ),
               Divider(
-                color: Colors.white,
+                color: Colors.white70,
               ),
               Expanded(
                 child: Column(
